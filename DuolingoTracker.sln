@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuolingoTracker", "DuolingoTracker\DuolingoTracker.csproj", "{94E26B37-6782-46DD-9C62-04B1DA3C7696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E26B37-6782-46DD-9C62-04B1DA3C7696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E26B37-6782-46DD-9C62-04B1DA3C7696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E26B37-6782-46DD-9C62-04B1DA3C7696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E26B37-6782-46DD-9C62-04B1DA3C7696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898E2E62-95D8-48AC-8AD2-2B536580C6F9}
+	EndGlobalSection
+EndGlobal
